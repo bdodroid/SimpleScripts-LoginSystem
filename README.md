@@ -23,8 +23,6 @@ Client/App side:
 	On your login button add an OnClick(by pressing the little + symbol) and drag your login control object to the object slot, then from the drop down box select Login->LoginAccount()
 	Do the same with your create account button on this time Login->CreateAccount()
 
-
-
 	Get the asset pack on the asset store for a dollar and help support future Simple Scripts! <a href="http://u3d.as/jmX">Asset Store</a>
 	Asset store includes a working example scene.
 
